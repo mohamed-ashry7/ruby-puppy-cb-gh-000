@@ -4,5 +4,5 @@
 class Dog
   @@all=0
   def initialize
-    
+
 end
